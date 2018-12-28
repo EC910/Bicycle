@@ -20,7 +20,7 @@ public class Module {
 		
 		list.add(new MountainBike (4, 4, 20, 2, 21));
 		
-		System.out.println("Hi Calum The speed of bicycle 2 is " + bicycle2.speed);
+		System.out.println("Hi User  The speed of bicycle 2 is " + bicycle2.speed);
 		
 //		bicycle1.printStates();
 //		bicycle2.printStates();
